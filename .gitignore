@@ -1,0 +1,4 @@
+/server/*
+/clients/*
+!/clients/.gitkeep
+!/server/.gitkeep
